@@ -2,6 +2,6 @@
 
 This is just  a sample repo for owc
 
-## My name is suryan 
+## My name is deva
 
 ### this is my test file
