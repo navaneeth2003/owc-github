@@ -2,7 +2,7 @@
 
 This is just  a sample repo for owc
 
-## My name is suryan 
+## My name is deva
 
 ### Hi I'm under the water... pls help mee.. umm umm :(
 
